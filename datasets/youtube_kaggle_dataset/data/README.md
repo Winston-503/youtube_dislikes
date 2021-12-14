@@ -1,1 +1,1 @@
-This folder contains [YouTube Trending Video Dataset downloaded from Kaggle](https://www.kaggle.com/rsrishav/youtube-trending-video-dataset) and clean version of it (youtube_kaggle_dataset.csv obtained using `dataset_collection.ipynb` notebook).
+This folder contains [YouTube Trending Video Dataset downloaded from Kaggle](https://www.kaggle.com/rsrishav/youtube-trending-video-dataset) and clean version of it (`youtube_kaggle_dataset.csv` obtained using `dataset_collection.ipynb` notebook).
