@@ -1,0 +1,1 @@
+This folder contains your API keys. To know more, visit: [official documentation](https://developers.google.com/youtube/v3/quickstart/python#step_1_set_up_your_project_and_credentials).

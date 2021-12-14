@@ -1,4 +1,9 @@
 .ipynb_checkpoints
-datasets/youtube_kaggle_dataset/data
-datasets/youtube_custom_dataset/api_keys
-datasets/youtube_custom_dataset/data/youtube_dislike_dataset.csv
+
+datasets/youtube_kaggle_dataset/data/*
+!datasets/youtube_kaggle_dataset/data/README.md
+
+datasets/youtube_custom_dataset/api_keys/*
+!datasets/youtube_custom_dataset/api_keys/README.md
+datasets/youtube_custom_dataset/data/*
+!datasets/youtube_custom_dataset/data/README.md
