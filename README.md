@@ -4,15 +4,15 @@ YouTube dislike prediction using Python, YouTube Data API v3, TensorFlow/Keras.
 
 ## Tutorials and Articles
 
-1. Part 1 - Youtube Dislikes Dataset - How to collect actual YouTube data using Python and Youtube Data API v3 on Medium and GitLab.
-2. Part 2 - Youtube Dislikes Prediction - How to build a reccurent neural network to predict the count of dislikes on Medium and GitLab.
+1. Part 1 - Youtube Dislikes Dataset - How to collect actual YouTube data using Python and Youtube Data API v3 on [Medium](https://medium.com/@andimid/predicting-the-number-of-dislikes-on-youtube-videos-part-1-dataset-9ec431585dc3) or [GitLab](https://gitlab.com/Winston-90/youtube_dislikes/-/blob/main/article/dataset.md).
+2. Part 2 - Youtube Dislikes Prediction - How to build a reccurent neural network to predict the count of dislikes on Medium or GitLab (coming soon).
 
 ## Project Structure
 
 The project has the following structure:
 
 ```
-coming soon
+final project structure is coming soon
 ```
 
 The `article` folder contains the data for tutorials and articles.
