@@ -12,6 +12,10 @@ This is the first part of the dislike prediction project. Here we will collect a
 The dataset that I have collected is available for download on [Kaggle](https://www.kaggle.com/dmitrynikolaev/youtube-dislikes-dataset). 
 All the code I used is available in the [GitLab repository](https://gitlab.com/Winston-90/youtube_dislikes).
 
+### Datasets Licenses
+
+Note that both [YouTube Trending Video Dataset](https://www.kaggle.com/rsrishav/youtube-trending-video-dataset) and [YouTube Dislikes Dataset](https://www.kaggle.com/dmitrynikolaev/youtube-dislikes-dataset) have [CC0: Public Domain license](https://creativecommons.org/publicdomain/zero/1.0/), so you can use them for free. You can learn more about data sources and data collection methods on Kaggle.
+
 ## Introduction
 
 As we all know, Youtube announced the decision to hide the number of dislikes from users around November 2021. This decision can be discussed as much as we want, but we have what we have - the dislike ratio is now visible only to the video creators.
