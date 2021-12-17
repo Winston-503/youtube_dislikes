@@ -10,3 +10,5 @@ datasets/youtube_custom_dataset/data/*
 
 embeddings/*
 !embeddings/README.md
+
+models/*
