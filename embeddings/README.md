@@ -1,1 +1,1 @@
-This folder contains pretrained glove word embeddings downloaded from http://nlp.stanford.edu/data/glove.6B.zip and http://vectors.nlpl.eu/repository/
+This folder contains pretrained word embeddings downloaded from http://nlp.stanford.edu/data/glove.6B.zip and http://vectors.nlpl.eu/repository/
