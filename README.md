@@ -2,9 +2,7 @@
 
 YouTube dislike prediction using Python, YouTube Data API v3, TensorFlow/Keras.
 
-![youtube_preview_dataset.jpg](article/img/youtube_preview_dataset.jpg)
-
-![youtube_preview_NN.jpg](article/img/youtube_preview_NN.jpg)
+![preview_full.jpg](article/img/preview_full.jpg)
 
 ## Tutorials and Articles
 
