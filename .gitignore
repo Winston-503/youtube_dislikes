@@ -12,4 +12,4 @@ embeddings/*
 !embeddings/README.md
 
 models/*
-!models/data/final.csv
+!models/README.md
