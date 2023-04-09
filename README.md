@@ -2,7 +2,7 @@
 
 Predicting the Number of Dislikes on YouTube Videos using Python, YouTube Data API v3, NLTK, and TensorFlow/Keras.
 
-![youtube_preview_full.jpg](article/img/youtube_preview_full.jpg)
+![youtube_preview_full.jpg](img/preview.jpg)
 
 ## Tutorials and Articles
 
