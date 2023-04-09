@@ -1,13 +1,14 @@
-# YouTube Dislikes Dataset / Prediction
+# Predicting the Number of Dislikes on YouTube Videos
 
-YouTube dislike prediction using Python, YouTube Data API v3, TensorFlow/Keras.
+Predicting the Number of Dislikes on YouTube Videos using Python, YouTube Data API v3, NLTK, and TensorFlow/Keras.
 
 ![youtube_preview_full.jpg](article/img/youtube_preview_full.jpg)
 
 ## Tutorials and Articles
 
-1. Part 1 - Youtube Dislikes Dataset - How to collect actual YouTube data using Python and Youtube Data API v3 on [Towards Data Science](https://towardsdatascience.com/predicting-the-number-of-dislikes-on-youtube-videos-part-1-dataset-9ec431585dc3) or [GitLab](https://gitlab.com/Winston-90/youtube_dislikes/-/blob/main/article/dataset.md).
-2. Part 2 - Youtube Dislikes Prediction - How to build a neural network to predict the count of dislikes on [Medium]() or [GitLab](https://gitlab.com/Winston-90/youtube_dislikes/-/blob/main/article/model.md) (coming soon).
+Read the detailed 2-part tutorials:
+1. Part 1 - Dataset: How to collect topical YouTube data using Python and Youtube Data API v3 on [Towards Data Science](https://towardsdatascience.com/predicting-the-number-of-dislikes-on-youtube-videos-part-1-dataset-9ec431585dc3)
+2. Part 2 - Model: How to (try to) build a deep neural network to predict the count of dislikes using Tensorflow/Keras on [Towards Data Science](https://towardsdatascience.com/predicting-the-number-of-dislikes-on-youtube-videos-part-2-model-aa981a69a8b2)
 
 ## Project Structure
 
@@ -15,7 +16,6 @@ The project has the following structure:
 
 ```
 youtube_dislikes
-├───article
 ├───datasets
 │   ├───youtube_custom_dataset
 │   │   │   dataset_collection.ipynb
@@ -39,7 +39,6 @@ youtube_dislikes
 └───requirements.txt
 ```
 
-- The `article` folder contains the data for tutorials and articles.
 - The `datasets` folder contains the data and notebooks for getting and cleaning the data:
   - `youtube_custom_dataset` - custom collected dataset:
     - The `api_keys` folder contains text files with YouTube API keys. To know more, visit [official documentation](https://developers.google.com/youtube/v3/quickstart/python#step_1_set_up_your_project_and_credentials).
